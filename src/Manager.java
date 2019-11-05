@@ -1,5 +1,5 @@
 
-public class Manager {
+public class Manager extends Karyawan {
 	private int kehadiran;
     private float tunjanganGolongan;
     private float tunjanganJabatan;
